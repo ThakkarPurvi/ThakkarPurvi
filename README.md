@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ThakkarPurvi
-- 👀 I’m interested in learning GitHub
-- 🌱 I’m currently learning GitHub
+- 👀 I’m interested and currently learning GitHub
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me ...
 
