@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Purvi's github stats](https://github-readme-stats.vercel.app/api?username=ThakkarPurvi)](https://github.com/ThakkarPurvi/ThakkarPurvi/edit/master/README.md)
-
+![Purvi's github stats](https://github-readme-stats.vercel.app/api?username=ThakkarPurvi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarPurvi&layout=compact)
 
 ## 🔗 Connect with me: 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ThakkarPurvi)
