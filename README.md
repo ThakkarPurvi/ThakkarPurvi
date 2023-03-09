@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarPurvi&layout=compact)
 
 [![Purvi's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThakkarPurvi&repo=github-readme-stats)](https://github.com/ThakkarPurvi/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarPurvi&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThakkarPurvi&theme=react&line_height=40&hide=css"/> </a>
 
 
 ## 🔗 Connect with me: 
