@@ -9,7 +9,12 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Purvi's github stats](https://github-readme-stats.vercel.app/api?username=ThakkarPurvi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarPurvi&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThakkarPurvi&theme=react&line_height=40&hide=css"/> </a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarPurvi&layout=compact)
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarPurvi&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThakkarPurvi&theme=react&line_height=40&hide=css"/> </a>
 
 [![Purvi's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThakkarPurvi&repo=github-readme-stats)](https://github.com/ThakkarPurvi/github-readme-stats)
 <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarPurvi&theme=react&line_height=40&hide=css"/> </a>
